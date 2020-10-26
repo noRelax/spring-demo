@@ -8,5 +8,7 @@ public class AbstractTest {
     protected static void test1(String str1,String str2){
         str1 = "123";
         str2 = "4444";
+
+
     }
 }
